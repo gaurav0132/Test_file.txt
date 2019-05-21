@@ -2,3 +2,4 @@ All rainbow color
 red
 green
 yellow
+pink
