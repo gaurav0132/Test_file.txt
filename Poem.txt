@@ -7,3 +7,5 @@ indigo
 blue
 adding blue color
 black
+gray
+orange
