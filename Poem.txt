@@ -6,3 +6,4 @@ pink
 indigo
 blue
 adding blue color
+black
